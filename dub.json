@@ -1,0 +1,10 @@
+{
+	"authors": [
+		"vital"
+	],
+	"copyright": "Copyright © 2019, vital",
+	"description": "A minimal D application.",
+	"license": "proprietary",
+	"name": "newo",
+    "lflags": ["-ldl", "-rpath=./libs/", "/usr/lib/x86_64-linux-gnu/libphobos2.so"]
+}
